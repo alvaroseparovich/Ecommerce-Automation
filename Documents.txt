@@ -1,0 +1,16 @@
+MongoDB
+=============
+-DB | elshaddaimongodb
+    - Doc | Users (users)
+    - Doc | Open_Resumes (resume)
+    
+    - Collections | Processed by Date resumes
+        - Doc | 2018-01
+        - Doc | 2018-02
+        ...
+
+-----------------
+
+Python
+===========
+
